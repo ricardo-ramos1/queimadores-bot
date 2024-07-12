@@ -7,5 +7,5 @@ Este bot Discord foi desenvolvido para monitorar um canal de voz específico da 
 ## Funcionalidades
 
 * **Monitoramento Automático:** O bot monitora continuamente as entradas no canal de voz da staff.
-* **Registro em Planilha:** Quando um membro entra no canal, o bot registra o nome, ID e horário de entrada em uma planilha do Google Sheets.
+* **Registro em Planilha:** Quando o comando !boss é utilizado o bot registra o nome, ID e horário em uma planilha do Google Sheets de todos os usuários que estão na call.
 
